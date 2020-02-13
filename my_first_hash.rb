@@ -1,6 +1,5 @@
 def my_hash
-  my
-  
+  my_hash = {:name => "Kyle"}
 end
 
 
